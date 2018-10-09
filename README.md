@@ -2,6 +2,10 @@
 
 ## Proposal
 
+http://www.food.ubc.ca/green2go/
+https://www.youtube.com/watch?v=1g1TKbRCvKU
+http://www.food.ubc.ca/cups/
+
 ### Sections
 
 #### Purpose
@@ -38,6 +42,7 @@ Studies:
 * When do people drink the most coffee?
 * Do they leave campus with the mug?
 * Do they care?
+* maybe we just start with residence and move from there.
 
 * look at the effectiveness of the current projects/solutions
 * look at some examples of other places that have done similar things
