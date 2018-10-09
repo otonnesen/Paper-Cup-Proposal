@@ -2,4 +2,3 @@
 
 ## Proposal
 ### Sections
-- 
