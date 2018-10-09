@@ -36,7 +36,12 @@
 * look at the effectiveness of the current projects/solutions
 * look at some examples of other places that have done similar things
 * look at:
-  * economic possiblility, issues
-  * look at poetential enviromental outcomes, issues
+  * economic:
+    * Cost benefit analysis
+    * Opprotunity cost
+    * short term / long term effects
+  * enviroment
+    * how much waste paper cup waste could be reduced? (100%)
+    * what about the mugs affects on the enviroment?
 
 #### Conclusion
