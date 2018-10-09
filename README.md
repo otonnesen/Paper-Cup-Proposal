@@ -7,7 +7,9 @@
 #### Purpose
 
  - Coffee cup waste is a huge problem at UVic. With no clear solution with keeping the coffee cups, we propose a study that looks at the feasability and effectiveness of completely getting rid of single use coffee cups and using shared mugs.
- - background
+ - will help uvic reach 75% waste diversion goal and accurately be able to quantify the effect
+ - reduce the percentage of waste being 20% to lower.
+ - Get rid of paper cup recycling propgram
 
 #### Problem description
 
