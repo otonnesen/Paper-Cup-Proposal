@@ -33,6 +33,12 @@
 
 #### Plan of Action
 
+We should include a gant chart that shows when we would do each study
+Studies: 
+* When do people drink the most coffee?
+* Do they leave campus with the mug?
+* Do they care?
+
 * look at the effectiveness of the current projects/solutions
 * look at some examples of other places that have done similar things
 * look at:
