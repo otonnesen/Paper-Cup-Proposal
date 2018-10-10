@@ -38,7 +38,7 @@ http://www.food.ubc.ca/cups/
 #### Plan of Action
 
 We should include a gant chart that shows when we would do each study
-Studies: 
+Studies:
 
 * When do people drink the most coffee?
 * Do they leave campus with the mug?
