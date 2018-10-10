@@ -39,6 +39,7 @@ http://www.food.ubc.ca/cups/
 
 We should include a gant chart that shows when we would do each study
 Studies: 
+
 * When do people drink the most coffee?
 * Do they leave campus with the mug?
 * Do they care?
